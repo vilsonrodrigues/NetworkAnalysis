@@ -1,3 +1,5 @@
+![](https://github.com/vilsonrodrigues/NetworkAnalysis/raw/main/spotify-playlists/images/grafo-github.jpg)
+
 # Overview
 Esse trabalho é referente a disciplina Network Analysis. Ele aplica um estudo sobre a interação de artistas presentes em playlists no Spotify. Em 2018, o Spotify tornou público o Spotify Million Playlists. 
 
